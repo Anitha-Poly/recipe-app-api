@@ -1,2 +1,2 @@
 # recepi-app-api
-Recepi Api Project
+Recipe Api Project
